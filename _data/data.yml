@@ -13,11 +13,11 @@ sidebar:
     avatar: Captura de pantalla 2024-11-11 220346.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: example@email.com
-    phone: 012 345 6789
-    timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+    email: monteromiugymbro@email.com
+    phone: 622 333 541
+    timezone: ESPAÑA/ESPAÑA # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
     citizenship:
-    website: https://example.com/ # Include the full website URL, including "http://" or "https://".
+    website: https://NOquiero.com/ # Include the full website URL, including "http://" or "https://".
     linkedin: alandoe
     xing: alandoe
     github: jekyll
@@ -37,13 +37,13 @@ sidebar:
       title: Languages
       info:
         - idiom: Spanish
-          level: Native
+          level: Muy bueno
 
         - idiom: English
-          level: Professional
+          level: Malo
 
         - idiom: Romanian
-          level: Professional
+          level: The boossss
 
     interests:
       title: Interests
