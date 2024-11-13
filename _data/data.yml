@@ -36,25 +36,25 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Spanish
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
+        - idiom: Romanian
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Training
           link:
 
-        - item: Snowboarding
+        - item: Sleep
           link:
 
-        - item: Cooking
+        - item: Eating
           link:
 
 career-profile:
